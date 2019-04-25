@@ -1,3 +1,6 @@
+<body>Loremp Imsum
+<h1>Loremp Imsum</h2>
+</body>
 <?php
 class Foo
 {
@@ -25,6 +28,7 @@ $obj->test();
 
 var_dump(Foo::$foo);
 change in tghis in Hindi Titie
+
 
 
 ?>

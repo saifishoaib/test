@@ -88,7 +88,7 @@ class Rectangle {
     }
 
 
- Area()
+ Rectangle.ProtoArea()
 {
 	
 	console.log(this.w * this.h);    
@@ -103,3 +103,4 @@ class Square extends Rectangle {
     }
 }
 let obj = new Square();
+console.log('hellow world');
