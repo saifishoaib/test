@@ -23,7 +23,8 @@ $obj->test();
 
 
 
-//var_dump(Foo::$foo);
+var_dump(Foo::$foo);
+change in tghis file
 
 
 ?>
