@@ -24,6 +24,6 @@ $obj->test();
 
 
 //var_dump(Foo::$foo);
-asdfasdfasdf
+
 
 ?>
